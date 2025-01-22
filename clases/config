@@ -1,9 +1,0 @@
-{
-    "conexion":{
-        "server" : "3.86.214.97",
-        "user" : "surfrider",
-        "password": "Escuelarider1234!",
-        "database" : "bd2020",
-        "port" : "3306"
-    }
-}
